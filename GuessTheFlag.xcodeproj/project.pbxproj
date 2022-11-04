@@ -11,6 +11,9 @@
 		E7BD275528CBE58F007B8B49 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BD275428CBE58F007B8B49 /* ContentView.swift */; };
 		E7BD275728CBE591007B8B49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7BD275628CBE591007B8B49 /* Assets.xcassets */; };
 		E7BD275A28CBE591007B8B49 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7BD275928CBE591007B8B49 /* Preview Assets.xcassets */; };
+		E7BD278128CE6BD3007B8B49 /* EmitterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BD278028CE6BD3007B8B49 /* EmitterView.swift */; };
+		E7BD278328CE90A6007B8B49 /* ParticleEmitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BD278228CE90A6007B8B49 /* ParticleEmitter.swift */; };
+		E7BD278528CE9342007B8B49 /* Countries.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BD278428CE9342007B8B49 /* Countries.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		E7BD275428CBE58F007B8B49 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E7BD275628CBE591007B8B49 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E7BD275928CBE591007B8B49 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E7BD278028CE6BD3007B8B49 /* EmitterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmitterView.swift; sourceTree = "<group>"; };
+		E7BD278228CE90A6007B8B49 /* ParticleEmitter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParticleEmitter.swift; sourceTree = "<group>"; };
+		E7BD278428CE9342007B8B49 /* Countries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Countries.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +61,9 @@
 				E7BD275428CBE58F007B8B49 /* ContentView.swift */,
 				E7BD275628CBE591007B8B49 /* Assets.xcassets */,
 				E7BD275828CBE591007B8B49 /* Preview Content */,
+				E7BD278028CE6BD3007B8B49 /* EmitterView.swift */,
+				E7BD278228CE90A6007B8B49 /* ParticleEmitter.swift */,
+				E7BD278428CE9342007B8B49 /* Countries.swift */,
 			);
 			path = GuessTheFlag;
 			sourceTree = "<group>";
@@ -139,6 +148,9 @@
 			files = (
 				E7BD275528CBE58F007B8B49 /* ContentView.swift in Sources */,
 				E7BD275328CBE58F007B8B49 /* GuessTheFlagApp.swift in Sources */,
+				E7BD278328CE90A6007B8B49 /* ParticleEmitter.swift in Sources */,
+				E7BD278528CE9342007B8B49 /* Countries.swift in Sources */,
+				E7BD278128CE6BD3007B8B49 /* EmitterView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
